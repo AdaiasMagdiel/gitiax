@@ -22,7 +22,7 @@ func (e *PromptEngine) GetSystemPrompt() string {
 
 	return fmt.Sprintf(`You are an expert developer assistant. Your task is to generate a professional Semantic Commit message.
 Rules:
-1. Format: <type>(<scope>): <subject> (short and concise)
+1. Format: <type>: <subject> (short and concise)
 2. Body: Use bullet points starting with "-" if the change is complex.
 3. Style: Professional, active voice, present tense.
 4. Language: %s.
