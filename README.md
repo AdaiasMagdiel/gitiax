@@ -4,7 +4,7 @@ Gitiax is a professional command-line interface (CLI) tool designed to automate 
 
 ## Features
 
-- **Automated Semantic Commits**: Generates commit messages following the `<type>(<scope>): <subject>` format.
+- **Automated Semantic Commits**: Generates commit messages following the `<type>: <subject>` format.
 - **AI-Powered Explanations**: Provides technical breakdowns of changes for code reviews or documentation purposes.
 - **Direct Integration**: Supports adding and committing files in a single command.
 - **Pipe Support**: Capable of processing diffs directly from standard input (stdin).
