@@ -1,0 +1,9 @@
+# Binaries
+gitiax
+gitiax.exe
+
+# OS files
+.DS_Store
+
+# Env
+.env
